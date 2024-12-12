@@ -3,7 +3,8 @@
 ## ✨ Project Overview  
 This project delves into the **Titanic dataset** to uncover fascinating insights about the passengers aboard the ill-fated ship. Using **Power BI**, I explored the dataset, cleaned the data, and created visually engaging reports that showcase key information about passenger demographics, survival rates, and embarkation points. The final report combines multiple visuals into an interactive dashboard to tell the story behind the data.  
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Insert+Dashboard+Image+Here)  
+![image](https://github.com/user-attachments/assets/86c76012-68bc-415c-9199-c26c73e3d159)
+
 
 ---
 
